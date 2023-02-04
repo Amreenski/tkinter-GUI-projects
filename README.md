@@ -1,1 +1,1 @@
-# tkinter-GUI-projects using Python
+# 4 small GUI projects using tkinter in Python
